@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/zupc88/project08/_apis/build/status/project08-CI?branchName=master)](https://dev.azure.com/zupc88/project08/_build/latest?definitionId=2&branchName=master)
+
 # monolith
 참고:  
 Order 와 product 는 N:1 (다대일) 관계이다.  
